@@ -1,0 +1,22 @@
+{
+    "name": "DarkHorse",
+    "symbol": "DARK",
+    "description": "Dark Token for sports futures gaming and decentralized finance.",
+    "image": "https://raw.githubusercontent.com/yourusername/yourrepo/main/dark-logo.png",
+    "external_url": "https://darkhorse.markets",
+    "attributes": [{
+            "trait_type": "Utility",
+            "value": "Gaming"
+        },
+        {
+            "trait_type": "Category",
+            "value": "DeFi"
+        }
+    ],
+    "properties": {
+        "files": [{
+            "uri": "https://raw.githubusercontent.com/hudlexchange/dh_logo/refs/heads/main/token_logo.jpg",
+            "type": "image/jpg"
+        }]
+    }
+}
