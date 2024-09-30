@@ -1,7 +1,7 @@
 {
     "name": "DarkHorse",
-    "symbol": "DARK",
-    "description": "Dark Token for sports futures gaming and decentralized finance.",
+    "symbol": "DRK",
+    "description": "DarkHorse Token for sports futures gaming and decentralized finance.",
     "image": "https://raw.githubusercontent.com/hudlexchange/dh_logo/refs/heads/main/token_logo.png",
     "external_url": "https://darkhorse.markets",
     "attributes": [
